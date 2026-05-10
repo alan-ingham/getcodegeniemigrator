@@ -2,7 +2,7 @@
 
 A one-shot migration utility for [GetCodeGenie](https://github.com/alan-ingham/getcodegenie).
 
-Converts GetCodeGenie snapshot files (`.gcg2p`) from the legacy BinaryFormatter binary format to JSON, in preparation for the GetCodeGenie migration to .NET 10.
+Converts GetCodeGenie snapshot files (`.gcg2p`) from the legacy BinaryFormatter binary format to JSON, in preparation for the GetCodeGenie migration to .NET 10. Required to Migrate from GetCodeGenie 6.3 to GetCodeGenie 7.0+.
 
 ## Background
 
