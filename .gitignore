@@ -1,0 +1,19 @@
+# Build outputs
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.pdb
+*.dtbcache.json
+
+# NuGet
+packages/
+*.nupkg
+
+# Installer output
+Installer/Output/
